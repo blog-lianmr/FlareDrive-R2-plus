@@ -43,7 +43,7 @@ export default {
       homeUrl: "https://www.cubixy.cn/",
       blogUrl: "https://blog.awawa.qzz.io/",
       githubUrl: "https://github.com/blog-lianmr",
-      emailUrl: "admin@cubixy.cn"
+      emailUrl: "mailto:admin@cubixy.cn"
     };
   }
 };
